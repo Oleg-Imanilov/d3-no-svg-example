@@ -1,0 +1,29 @@
+.app {
+    width:900px;
+    margin: auto;
+    text-align: center;
+}
+
+.node {
+    position: absolute;
+    border: solid 2px;
+    text-align: center;
+    font-size: 12px;
+    margin: auto;
+    z-index: 10;
+    cursor: move;
+    overflow: hidden;
+}
+
+.link {
+    position: absolute; 
+    height: 4px; 
+    z-index: 0; 
+}
+
+.workspace {
+    background:rgba(145, 195, 251, 0.5);
+    position:relative;
+    width:100%;
+    min-height:500px;
+}

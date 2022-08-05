@@ -1,6 +1,11 @@
 # d3-no-svg-example
+
 ## Example of using d3js to create interactive html (no SVG / Canvas)
 
-### Just open index.html in browser
+### All elements are &lt;span&gt; with some css magic
 
-<img src="https://github.com/Oleg-Imanilov/d3-no-svg-example/blob/master/no-svg-d3js.png"/>
+![Screenshot](no-svg-d3js.png)
+
+## Demo
+
+https://htmlpreview.github.io/?https://github.com/Oleg-Imanilov/d3-no-svg-example/blob/master/index.html
